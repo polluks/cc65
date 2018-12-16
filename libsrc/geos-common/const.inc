@@ -98,7 +98,7 @@ SC_PIX_WIDTH            =       320
 SC_PIX_HEIGHT           =       192
 SC_PIX_WIDTH            =       560
 .endif
-SC_SIZE                 =       8000
+SC_SIZE                 =       SC_PIX_HEIGHT*SC_PIX_WIDTH/8
 ;128 screen size constants
 SCREENBYTEWIDTH         =       80
 SCREENPIXELWIDTH        =       640

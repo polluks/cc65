@@ -34,8 +34,8 @@ scope-merge:
 ------------
 
 Tests the --merge-scopes command line option, including scope fragments in
-the same source file and in include files, nested namespaces, scope sizes, and
-duplicate symbols.
+the same source file and in include files, enabling with .feature, nested
+namespaces, scope sizes, and duplicate symbols.
 
 
 val:

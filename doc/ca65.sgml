@@ -3192,6 +3192,12 @@ See: <tt><ref id=".ASCIIZ" name=".ASCIIZ"></tt>,<tt><ref id=".CHARMAP" name=".CH
     assemblers which similarly allowed <tt>jsr</tt> and <tt>jmp</tt> to be used
     this way.
 
+  <tag><tt>merge_scopes</tt><label id="merge_scopes"></tag>
+
+    Allow named <tt/.SCOPE/ blocks with the same enclosing scope to be
+    reopened and merged. See the <tt><ref id="option--merge-scopes"
+    name="--merge-scopes"></tt> command line option for details.
+
   <tag><tt>loose_char_term</tt><label id="loose_char_term"></tag>
 
     Accept single quotes as well as double quotes as terminators for char

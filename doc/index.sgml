@@ -71,9 +71,6 @@
   <tag><htmlurl url="debugging.html" name="debugging.html"></tag>
   Debug programs, using the VICE emulator.
 
-  <tag><htmlurl url="decompression.html" name="decompression.html"></tag>
-  Information about 6502-friendly decompressors shipped in cc65's runtime.
-
 </descrip>
 
 
@@ -120,6 +117,9 @@
 
   <tag><htmlurl url="apple2enh.html" name="apple2enh.html"></tag>
   Topics specific to the enhanced&nbsp;Apple&nbsp;//e.
+
+  <tag><htmlurl url="apple3.html" name="apple3.html"></tag>
+  Topics specific to the Apple&nbsp;///.
 
   <tag><htmlurl url="atari.html" name="atari.html"></tag>
   Topics specific to the Atari 8-bit machines.
